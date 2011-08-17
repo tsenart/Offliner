@@ -6,7 +6,7 @@ Just click the browser action button to toggle offline and online mode.
 ## Installation: Click the link
 Extensions with experimental APIs can't be hosted on the gallery. So
 here it is...
-[http://dl.dropbox.com/u/13889166/Offliner.crx](http://dl.dropbox.com/u/13889166/Offliner.crx)
+[https://github.com/tsenart/Offliner/raw/master/Offliner.crx](https://github.com/tsenart/Offliner/raw/master/Offliner.crx)
 
 ## Screenshots
 
