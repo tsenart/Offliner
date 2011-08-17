@@ -1,0 +1,17 @@
+{
+  "name": "Offliner",
+  "version": "0.1",
+  "description": "Go offline in Chrome!",
+  "minimum_chrome_version": "10",
+  "background_page": "background.html",
+  "permissions": ["experimental"],
+  "browser_action": {
+    "default_title": "Go offline!",
+    "default_icon": "images/icon19_online.png"
+  },
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
+}
