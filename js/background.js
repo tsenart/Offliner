@@ -11,4 +11,4 @@ chrome.experimental.webRequest.onBeforeRequest.addListener(function(request) {
   if (!/^chrome/.test(request.url) && !isOnline) {
     return { cancel: true };
   }
-}, undefined, ['blocking']);
+}, {}, ['blocking']);
